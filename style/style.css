@@ -59,22 +59,39 @@ h3.headding-title {
     color: #474747;
     list-style: none;
 }
-main {
+.contenar-parent-div
+{
     display: flex;
     padding-top:150px; 
-    justify-content: space-between !important;
+    padding-left: 350px;
+    align-items: center;
+    gap: 200px;
 }
 .main-contenar-image{
     /* max-width: 200px !important; */
-    padding: 200px !important;
+    padding-left:  !important;
 }
 .main-contenar-list{
     /* max-width: 200px !important; */
-    padding: 226px !important;
-    padding-top: 50px !important;
+    /* padding: 226px !important; */
+    /* padding-top: 50px !important; */
+    width: 400px;
+   
 }
-.main-contenar-list {
-    /* max-width: 200px !important; */
-    padding: 226px !important;
-    padding-top: 457px !important;
+.main-list-item>li>img{
+    width: 20px;
+    
+    
+}
+.main-contenar-descripsion,.main-list-item {
+    color: #474747;
+    
+}
+.main-contenar-title {
+    font-size: 50px;
+    
+    margin-bottom: 20px;
+}
+.main-list-item>li, .main-contenar-descripsion  {
+    line-height: 30px;
 }
