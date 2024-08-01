@@ -149,9 +149,42 @@ h3.headding-title {
     display: flex;
     justify-content: center;
     margin-top: 120px;
-    
-}
-.main-image-div-parent img{
     background-image: url('/images/watch.png');
     background-repeat: no-repeat;
+    
+}
+.image-watch-div{
+    background-image: url('/images/gradient2.png');
+    background-repeat: no-repeat;
+}
+.image-parent-div{
+    justify-content: center;
+    display: flex;
+}
+.image-heading-div{
+    width: 1200px;
+   height: 500px;
+}
+.image-heading-div h3 {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: white;
+    font-size: 45px;
+    margin-bottom: 17px;
+}
+.image-width-div {
+    width: 615px;
+}
+.primary-btn {
+    background: white;
+    color: #f15b22;
+    font-size: 20px;
+    font-family: bold;
+    margin-left: 50px;
+    font-family:'Arial Narrow Bold', sans-serif;
+    border: none;
+    padding: 25px 60px;
+    border-radius: 7px;
+   
 }
