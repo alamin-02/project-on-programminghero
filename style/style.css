@@ -121,7 +121,7 @@ h3.headding-title {
     margin: 0px 120px 1px 120px;
 }
 .plans-titl>li{
-    margin: 0px 95px 0px 108px;
+    margin: 0px 115px 0px 84px;
     list-style: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
@@ -139,9 +139,19 @@ h3.headding-title {
 }
  .larning-time-list li{
     /* margin: 0px 95px 0px 108px; */
-    margin: 0px 79px 0px 151px;
+    margin: 0px 94px 0px 129px;
     list-style: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
     color: #474747;
  }
+ .main-image-div-parent {
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    
+}
+.main-image-div-parent img{
+    background-image: url('/images/watch.png');
+    background-repeat: no-repeat;
+}
