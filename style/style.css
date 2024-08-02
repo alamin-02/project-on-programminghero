@@ -218,7 +218,7 @@ footer{
 }
 .footer-parent-div-2 h2 {
     font-size: 37px;
-    /* justify-content: center; */
+   margin-top: 56px;
 }
 input[type="email"] {
     padding: 20px 30px;
