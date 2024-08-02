@@ -188,3 +188,53 @@ h3.headding-title {
     border-radius: 7px;
    
 }
+/* footer style */
+footer{
+    background-color: #151414;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-parent-div-1 {
+    padding:100px 255px;
+    color: white;
+    width: 467px;
+}
+.footer-parent-div-2 h3 {
+    font-size: 52px;
+    margin-bottom: 0;
+}
+.footer-icon-list {
+   
+    margin-left: -41px;
+}
+.footer-icon-list > ul > li {
+   margin-right: 15px;
+    list-style: none;
+}
+.footer-icon-list>ul {
+   
+    display: flex;
+}
+.footer-parent-div-2 h2 {
+    font-size: 37px;
+    /* justify-content: center; */
+}
+input[type="email"] {
+    padding: 20px 30px;
+    border-radius: 10px;
+    background: #151414;
+    border: solid white;
+    font-size: 19px;
+    color: white;
+    
+}
+.footer-parent-div-2 button {
+    padding: 20px 36px;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    color: #F15B22;
+    /* padding-top: 44px; */
+    margin-top: 20px;
+}
