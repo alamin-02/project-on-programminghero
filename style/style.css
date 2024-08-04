@@ -237,4 +237,5 @@ input[type="email"] {
     color: #F15B22;
     /* padding-top: 44px; */
     margin-top: 20px;
+    border: none;
 }
